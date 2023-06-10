@@ -4,7 +4,7 @@ Hi!
 
 My names Lilly Phillips and I just graduated with a degree in Electrical Engineering from the University of Michigan.
 
-Excited to start work at JPMC!
+Excited to start work at JPMC!!
 
 <!--
 **lillykp/lillykp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
